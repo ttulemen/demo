@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: ttulemen/demo:0.1
+        image: ttulemen/demo:0.2
         ports:
         - containerPort: 80
