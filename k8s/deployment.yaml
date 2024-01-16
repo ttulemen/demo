@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: ttulemen/demo:0.5
+        image: ttulemen/demo:0.4
         resources:
           requests:
             memory: "64Mi"
